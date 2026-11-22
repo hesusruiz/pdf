@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-15",
+  "legal_rep": {
+    "name": "María",
+    "surname": "García López",
+    "id_number": "12345678Z",
+    "email": "maria.garcia@solucionescloud.es"
+  },
+  "company": {
+    "legal_name": "Soluciones & Servicios Cloud S.L.",
+    "registered_address": "Paseo de la Castellana 259, Torre Espacio, Planta 18, 28046 Madrid, Spain",
+    "country_code": "ES",
+    "tax_id": "ESB87654321"
+  },
+  "account_admin": {
+    "name": "José Antonio",
+    "surname": "Pérez-Muñoz",
+    "id_number": "",
+    "postal_address": "Avenida Diagonal 640, Edificio Norte, Oficina 4B, 08017 Barcelona, Spain",
+    "email": "j.perez@solucionescloud.es"
+  }
+}
