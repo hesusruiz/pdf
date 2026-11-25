@@ -12,8 +12,6 @@ It combines **PDF/A-3B embedded JSON attachments**, **PDF named destinations (`/
 go get github.com/hesusruiz/pdf
 ```
 
-> **Local development note:** During local development alongside a sibling checkout of `folio`, `go.mod` carries `replace github.com/carlos7ags/folio => ../folio`. Before tagging or publishing `github.com/hesusruiz/pdf` on GitHub, drop that `replace` line and pin a published release of `folio` (for example `go get github.com/carlos7ags/folio@v0.11.0 && go mod tidy`).
-
 ---
 
 ## Pipeline Overview
